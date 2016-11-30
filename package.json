@@ -1,0 +1,27 @@
+{
+  "name": "teo-helmet-extension",
+  "version": "1.0.0",
+  "description": "Teo.JS helmet middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antyfive/teo-helmet-extension.git"
+  },
+  "keywords": [
+    "Teo.JS",
+    "teo.js",
+    "helmet",
+    "security",
+    "middleware",
+    "extension"
+  ],
+  "author": "Andrew Teologov <teologov.and@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antyfive/teo-helmet-extension/issues"
+  },
+  "homepage": "https://github.com/Antyfive/teo-helmet-extension#readme"
+}

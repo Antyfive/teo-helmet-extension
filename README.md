@@ -1,2 +1,2 @@
 # teo-helmet-extension
-Teo.JS helmet middleware.
+Teo.JS extension middleware based on [helmet](https://github.com/helmetjs/helmet) module.

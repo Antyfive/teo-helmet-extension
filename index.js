@@ -12,7 +12,7 @@ const config = require("helmet/config");
 
 module.exports = {
     extension(app, options = {}) {  // the same options object supported as in https://github.com/helmetjs/helmet
-        middlewares = Object.keys(helmet);
+        const middlewares = Object.keys(helmet);
         middlewares.forEach((middlewareName) => {
             const middleware = helmet[middlewareName];
             const option = options[middlewareName];
